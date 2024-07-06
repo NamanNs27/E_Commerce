@@ -28,7 +28,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/e-commerce-store.git
+git clone https://github.com/NamanNs27/e-commerce-store.git
 cd e-commerce-store
 Install dependencies
 
@@ -86,7 +86,7 @@ Clone the forked repository
 
 bash
 Copy code
-git clone https://github.com/your-username/e-commerce-store.git
+git clone https://github.com/NamanNs27/e-commerce-store.git
 cd e-commerce-store
 Create a new branch
 
